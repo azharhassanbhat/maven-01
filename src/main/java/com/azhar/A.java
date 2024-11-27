@@ -14,6 +14,8 @@ import java.util.stream.IntStream;
 public class A {
 
 	public static void main(String[] args) {
+		System.out.println(1000);
+		System.out.println(2000);
 	String s="hello";
 	String rev = reverseString(s);
 	System.out.println(rev);
