@@ -16,11 +16,8 @@ public class A {
 	public static void main(String[] args) {
 		System.out.println(1000);
 		System.out.println(2000);
-<<<<<<< Updated upstream
 		System.out.println("Kaaju");
-=======
 		System.out.println(30000);
->>>>>>> Stashed changes
 	String s="hello";
 	String rev = reverseString(s);
 	System.out.println(rev);
