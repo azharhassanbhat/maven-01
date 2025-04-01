@@ -13,6 +13,7 @@ public class Book {
 		return name;
 	}
 	public int getYear() {
+		System.out.println("Hello Azhar");
 		return year;
 	}
 	@Override
