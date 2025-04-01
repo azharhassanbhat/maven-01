@@ -10,6 +10,7 @@ public class Book {
 		this.year = year;
 	}
 	public String getName() {
+		System.out.println("Team");
 		return name;
 	}
 	public int getYear() {
